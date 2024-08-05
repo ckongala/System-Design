@@ -30,6 +30,3 @@ I can go over the key data structures (like arrays, linked lists, etc.), search 
 ### Real-Time Scenario:
 Imagine you're designing a social media app like Instagram. You need to figure out how to store and retrieve users' posts quickly. You might use a data structure like a hash table to store the posts, which allows for fast access. If a user searches for a specific post, you might use a binary search to find it quickly. And if you need to display posts in a certain order, you could use a sorting algorithm like mergesort.
 
----
-
-This explanation covers the core ideas in a simple way, using technical terms and examples that connect to real-life scenarios.
